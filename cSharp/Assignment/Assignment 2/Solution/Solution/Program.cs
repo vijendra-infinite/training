@@ -10,11 +10,11 @@ namespace Solution
     {
         static void Main(string[] args)
         {
-            //triple();
-            // weekdays();
-            //FindAverage();
-            //Marks();
-            // Copyarray();
+            triple();
+            weekdays();
+            FindAverage();
+            Marks();
+            Copyarray();
             Stringoperation();
             Console.Read();
         }
