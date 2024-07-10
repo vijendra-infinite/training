@@ -1,0 +1,4 @@
+Hello
+i am trying to create files in c#
+I'm trying to learn how to append files
+
