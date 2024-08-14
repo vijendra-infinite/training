@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34931.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ado_net", "ado_net\ado_net.csproj", "{018DDD81-30DD-45D4-AA47-341CCEC5C9A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dissconnected_ex1", "Dissconnected_ex1\Dissconnected_ex1.csproj", "{878DD34D-D947-4DE9-886F-FF9037384111}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{018DDD81-30DD-45D4-AA47-341CCEC5C9A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018DDD81-30DD-45D4-AA47-341CCEC5C9A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018DDD81-30DD-45D4-AA47-341CCEC5C9A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018DDD81-30DD-45D4-AA47-341CCEC5C9A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{878DD34D-D947-4DE9-886F-FF9037384111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878DD34D-D947-4DE9-886F-FF9037384111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878DD34D-D947-4DE9-886F-FF9037384111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878DD34D-D947-4DE9-886F-FF9037384111}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FAA0A40-AEA9-45FA-805D-84B45162DCC5}
+	EndGlobalSection
+EndGlobal

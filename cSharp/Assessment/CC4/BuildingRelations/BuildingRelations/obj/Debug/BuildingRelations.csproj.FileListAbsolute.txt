@@ -1,0 +1,7 @@
+D:\InfiniteTraining\cSharp\Assessment\CC4\BuildingRelations\BuildingRelations\bin\Debug\BuildingRelations.exe.config
+D:\InfiniteTraining\cSharp\Assessment\CC4\BuildingRelations\BuildingRelations\bin\Debug\BuildingRelations.exe
+D:\InfiniteTraining\cSharp\Assessment\CC4\BuildingRelations\BuildingRelations\bin\Debug\BuildingRelations.pdb
+D:\InfiniteTraining\cSharp\Assessment\CC4\BuildingRelations\BuildingRelations\obj\Debug\BuildingRelations.csproj.AssemblyReference.cache
+D:\InfiniteTraining\cSharp\Assessment\CC4\BuildingRelations\BuildingRelations\obj\Debug\BuildingRelations.csproj.CoreCompileInputs.cache
+D:\InfiniteTraining\cSharp\Assessment\CC4\BuildingRelations\BuildingRelations\obj\Debug\BuildingRelations.exe
+D:\InfiniteTraining\cSharp\Assessment\CC4\BuildingRelations\BuildingRelations\obj\Debug\BuildingRelations.pdb

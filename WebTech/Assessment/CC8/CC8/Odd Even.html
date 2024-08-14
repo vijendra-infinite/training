@@ -1,0 +1,33 @@
+﻿﻿
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>OddEven</title>
+</head>
+<body>
+
+    <h1>   Checking in  Loop for Odd and Even</h1>
+    <br />
+    <br />
+    <div id="EventOutput"></div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var outputDiv = document.getElementById("EventOutput");
+
+            // Loop
+            for (var i = 0; i <= 15; i++) {
+                if (i % 2 === 0) {
+                    // for Even No.
+                    outputDiv.innerHTML += i + " is even<br>";
+                } else {
+                    // for Odd number
+                    outputDiv.innerHTML += i + " is odd<br>";
+                }
+            }
+        });
+    </script>
+</body>
+</html>

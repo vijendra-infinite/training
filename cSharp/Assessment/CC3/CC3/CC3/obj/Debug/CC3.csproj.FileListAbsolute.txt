@@ -1,0 +1,7 @@
+D:\InfiniteTraining\cSharp\Assessment\CC3\CC3\CC3\bin\Debug\CC3.exe.config
+D:\InfiniteTraining\cSharp\Assessment\CC3\CC3\CC3\bin\Debug\CC3.exe
+D:\InfiniteTraining\cSharp\Assessment\CC3\CC3\CC3\bin\Debug\CC3.pdb
+D:\InfiniteTraining\cSharp\Assessment\CC3\CC3\CC3\obj\Debug\CC3.csproj.AssemblyReference.cache
+D:\InfiniteTraining\cSharp\Assessment\CC3\CC3\CC3\obj\Debug\CC3.csproj.CoreCompileInputs.cache
+D:\InfiniteTraining\cSharp\Assessment\CC3\CC3\CC3\obj\Debug\CC3.exe
+D:\InfiniteTraining\cSharp\Assessment\CC3\CC3\CC3\obj\Debug\CC3.pdb

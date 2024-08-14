@@ -1,0 +1,7 @@
+D:\InfiniteTraining\cSharp\Assessment\CC4\ado_net\Dissconnected_ex1\bin\Debug\Dissconnected_ex1.exe.config
+D:\InfiniteTraining\cSharp\Assessment\CC4\ado_net\Dissconnected_ex1\bin\Debug\Dissconnected_ex1.exe
+D:\InfiniteTraining\cSharp\Assessment\CC4\ado_net\Dissconnected_ex1\bin\Debug\Dissconnected_ex1.pdb
+D:\InfiniteTraining\cSharp\Assessment\CC4\ado_net\Dissconnected_ex1\obj\Debug\Dissconnected_ex1.csproj.AssemblyReference.cache
+D:\InfiniteTraining\cSharp\Assessment\CC4\ado_net\Dissconnected_ex1\obj\Debug\Dissconnected_ex1.csproj.CoreCompileInputs.cache
+D:\InfiniteTraining\cSharp\Assessment\CC4\ado_net\Dissconnected_ex1\obj\Debug\Dissconnected_ex1.exe
+D:\InfiniteTraining\cSharp\Assessment\CC4\ado_net\Dissconnected_ex1\obj\Debug\Dissconnected_ex1.pdb

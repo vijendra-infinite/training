@@ -1,0 +1,7 @@
+D:\InfiniteTraining\cSharp\Assessment\CC4\CC4\CC4\bin\Debug\CC4.exe.config
+D:\InfiniteTraining\cSharp\Assessment\CC4\CC4\CC4\bin\Debug\CC4.exe
+D:\InfiniteTraining\cSharp\Assessment\CC4\CC4\CC4\bin\Debug\CC4.pdb
+D:\InfiniteTraining\cSharp\Assessment\CC4\CC4\CC4\obj\Debug\CC4.csproj.AssemblyReference.cache
+D:\InfiniteTraining\cSharp\Assessment\CC4\CC4\CC4\obj\Debug\CC4.csproj.CoreCompileInputs.cache
+D:\InfiniteTraining\cSharp\Assessment\CC4\CC4\CC4\obj\Debug\CC4.exe
+D:\InfiniteTraining\cSharp\Assessment\CC4\CC4\CC4\obj\Debug\CC4.pdb

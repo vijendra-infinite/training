@@ -1,0 +1,13 @@
+create or alter proc Payslip @EmpNo int
+as 
+begin
+select 'Employee Name'as Details,ename as Employee,cast(sal as nvarchar(20)) as BaiscPay,
+        cast(sal * 0.1 as nvarchar(20)) as HRA,cast(sal * 0.2 as nvarchar(20)) as DA,
+        cast(sal * 0.08 as nvarchar(20)) as PF,
+        cast(sal * 0.05 as nvarchar(20)) as IT,
+        cast((sal * 0.08) + (sal * 0.05) as nvarchar(20)) as TotalDeductions,
+        cast(sal + (sal * 0.1) + (sal * 0.2) as nvarchar(20)) as GrossSalary,
+        cast(sal + (sal * 0.1) + (sal * 0.2) - ((sal * 0.08) + (sal * 0.05)) as nvarchar(20)) as NetSalary
+from EMP where Empno=@EmpNo 
+end
+execute Payslip @EmpNo=7934;

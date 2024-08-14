@@ -1,0 +1,7 @@
+D:\InfiniteTraining\cSharp\Assignment\Assignment4\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+D:\InfiniteTraining\cSharp\Assignment\Assignment4\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+D:\InfiniteTraining\cSharp\Assignment\Assignment4\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+D:\InfiniteTraining\cSharp\Assignment\Assignment4\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.AssemblyReference.cache
+D:\InfiniteTraining\cSharp\Assignment\Assignment4\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+D:\InfiniteTraining\cSharp\Assignment\Assignment4\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+D:\InfiniteTraining\cSharp\Assignment\Assignment4\Assignment4\Assignment4\obj\Debug\Assignment4.pdb

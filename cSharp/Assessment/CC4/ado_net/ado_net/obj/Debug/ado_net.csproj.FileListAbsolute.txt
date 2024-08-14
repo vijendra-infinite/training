@@ -1,0 +1,7 @@
+D:\InfiniteTraining\cSharp\Assessment\CC4\ado_net\ado_net\bin\Debug\ado_net.exe.config
+D:\InfiniteTraining\cSharp\Assessment\CC4\ado_net\ado_net\bin\Debug\ado_net.exe
+D:\InfiniteTraining\cSharp\Assessment\CC4\ado_net\ado_net\bin\Debug\ado_net.pdb
+D:\InfiniteTraining\cSharp\Assessment\CC4\ado_net\ado_net\obj\Debug\ado_net.csproj.AssemblyReference.cache
+D:\InfiniteTraining\cSharp\Assessment\CC4\ado_net\ado_net\obj\Debug\ado_net.csproj.CoreCompileInputs.cache
+D:\InfiniteTraining\cSharp\Assessment\CC4\ado_net\ado_net\obj\Debug\ado_net.exe
+D:\InfiniteTraining\cSharp\Assessment\CC4\ado_net\ado_net\obj\Debug\ado_net.pdb
