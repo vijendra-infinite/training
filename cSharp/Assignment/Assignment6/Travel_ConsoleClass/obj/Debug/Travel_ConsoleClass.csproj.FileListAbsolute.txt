@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_ConsoleClass\bin\Debug\Travel_ConsoleClass.exe.config
 D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_ConsoleClass\bin\Debug\Travel_ConsoleClass.exe
 D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_ConsoleClass\bin\Debug\Travel_ConsoleClass.pdb
@@ -8,3 +9,15 @@ D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_ConsoleClass\obj\Debug\
 D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_ConsoleClass\obj\Debug\Travel_ConsoleClass.csproj.CopyComplete
 D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_ConsoleClass\obj\Debug\Travel_ConsoleClass.exe
 D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_ConsoleClass\obj\Debug\Travel_ConsoleClass.pdb
+=======
+D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_ConsoleClass\bin\Debug\Travel_ConsoleClass.exe.config
+D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_ConsoleClass\bin\Debug\Travel_ConsoleClass.exe
+D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_ConsoleClass\bin\Debug\Travel_ConsoleClass.pdb
+D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_ConsoleClass\bin\Debug\Travel_LibraryClass.dll
+D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_ConsoleClass\bin\Debug\Travel_LibraryClass.pdb
+D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_ConsoleClass\obj\Debug\Travel_ConsoleClass.csproj.AssemblyReference.cache
+D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_ConsoleClass\obj\Debug\Travel_ConsoleClass.csproj.CoreCompileInputs.cache
+D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_ConsoleClass\obj\Debug\Travel_ConsoleClass.csproj.CopyComplete
+D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_ConsoleClass\obj\Debug\Travel_ConsoleClass.exe
+D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_ConsoleClass\obj\Debug\Travel_ConsoleClass.pdb
+>>>>>>> b085a125942dd55cc881c5d912888ae618f5dee9

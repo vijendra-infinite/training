@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_LibraryClass\bin\Debug\Travel_LibraryClass.dll
 D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_LibraryClass\bin\Debug\Travel_LibraryClass.pdb
 D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_LibraryClass\obj\Debug\Travel_LibraryClass.csproj.AssemblyReference.cache
 D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_LibraryClass\obj\Debug\Travel_LibraryClass.csproj.CoreCompileInputs.cache
 D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_LibraryClass\obj\Debug\Travel_LibraryClass.dll
 D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_LibraryClass\obj\Debug\Travel_LibraryClass.pdb
+=======
+D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_LibraryClass\bin\Debug\Travel_LibraryClass.dll
+D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_LibraryClass\bin\Debug\Travel_LibraryClass.pdb
+D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_LibraryClass\obj\Debug\Travel_LibraryClass.csproj.AssemblyReference.cache
+D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_LibraryClass\obj\Debug\Travel_LibraryClass.csproj.CoreCompileInputs.cache
+D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_LibraryClass\obj\Debug\Travel_LibraryClass.dll
+D:\InfiniteTraining\cSharp\Assignment\Assignment6\Travel_LibraryClass\obj\Debug\Travel_LibraryClass.pdb
+>>>>>>> b085a125942dd55cc881c5d912888ae618f5dee9
